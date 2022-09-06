@@ -3,3 +3,99 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+a.about {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a.new-properties {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a.listings {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a.market-rep {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a.contact {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a.hud-link {
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+
+p#firstp {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+p#secp {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  margin-top: 1em;
+}
+
+div.contact {
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
+
+div.correspondence {
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
+
+div.links {
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
+
+div.follow {
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
